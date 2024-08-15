@@ -1,2 +1,0 @@
-# Suggesto
-Suggesto first demo
